@@ -1,0 +1,1 @@
+select nome from estados where populacao >= 1 order by populacao desc
