@@ -7,4 +7,4 @@ create table estados (
     PRIMARY KEY (id),
     UNIQUE KEY (nome),
     UNIQUE KEY (sigla)
-);
+);  
